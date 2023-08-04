@@ -28,6 +28,7 @@ public class day2 {
                 }
             }
             System.out.println(totalScore);
+            br.close();
         }
         catch(IOException e){
             e.printStackTrace();
