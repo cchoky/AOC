@@ -1,4 +1,4 @@
-package AOC_2022.main;
+package AOC_2022.Coding;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
